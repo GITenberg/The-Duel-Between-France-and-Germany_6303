@@ -1,4 +1,8 @@
 _repo: The-Duel-Between-France-and-Germany_6303
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Sumner, Charles
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1986
     wikipedia: http://en.wikipedia.org/wiki/Charles_Sumner
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6303#The-Duel-Between-France-and-Germany
 gutenberg_bookshelf: Germany
 gutenberg_issued: '2004-08-01'
 gutenberg_type: Text
